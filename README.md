@@ -49,6 +49,6 @@ Name: Agbozu Ebingiye Nelvin
 
 📧 Email: nelvinebingiye@gmail.com
 
-🌐 GitHub: github.com/Nelvinebi
+🌐 GitHub: *github.com/Nelvinebi
 
 LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
